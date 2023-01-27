@@ -23,8 +23,8 @@ def longest_common_substring(str1, str2):
 
 
 
-str1 = "ABCD"
-str2 = "ACDF"
+str1 = "ABABC"
+str2 = "BABCA"
 output = longest_common_substring(str1,str2)
 
 print(output)
